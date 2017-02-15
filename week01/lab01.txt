@@ -19,3 +19,4 @@ drwxr-xr-x  2 rizkah.shalihah StafCS 4096 Feb 15 12:24 week08
 drwxr-xr-x  2 rizkah.shalihah StafCS 4096 Feb 15 12:25 week09
 drwxr-xr-x  2 rizkah.shalihah StafCS 4096 Feb 15 12:26 week10
 drwxr-xr-x  2 rizkah.shalihah StafCS 4096 Feb 15 12:26 xtra
+Today is 
