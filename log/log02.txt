@@ -1,1 +1,16 @@
-wo2-170228-
+Week:w02-170221-10-LR-About: C Programming, From: Lecturer
+Week:w02-170221-10-LR-About: C Programming, From: Lecturer
+Week:w02-170221-11-LR-About: C Programming, From: Lecturer
+Week:w01-170221-16-PS-Task 02
+Week:w01-170221-16-PS-Task 02
+Week:w01-170221-17-PS-Task 02
+Week:w01-170221-17-PS-Task 02
+Week:w01-170221-18-PS-Task 02
+Week:w01-170221-18-PS-Task 02
+Week:w01-170222-LR-Read book Operating System Concepts
+Week:w01-170222-LR-Read book Operating System Concepts
+Week:w01-170223-10-LR-About: Encrypt Data, From: Lecturer
+Week:w01-170223-10-LR-About: Encrypt Data, From: Lecturer
+Week:w01-170223-10-LR-About: Encrypt Data, From: Lecturer
+Week:w01-170224-20-PS-Task 02 Revisi
+Week:w01-170224-20-PS-Task 02 Revisi
