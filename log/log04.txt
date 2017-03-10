@@ -1,0 +1,11 @@
+Week:w04-170307-10-LR-About: Pointer-Variable, From: Lecturer
+Week:w04-170307-10-LR-About: Pointer-Variable, From: Lecturer
+Week:w04-170307-11-LR-About: Nested Pointer-Variable, From: Lecturer
+Week:w04-170307-14-PS-Task 04
+Week:w04-170307-14-PS-Task 04
+Week:w04-170307-15-PS-Task 04
+Week:w04-170309-10-LR-About: Open and close file, From: Lecturer
+Week:w04-170309-10-LR-About: Open and close file, From: Lecturer
+Week:w04-170309-11-LR-About: Open and close file, From: Lecturer
+Week:w04-170310-13-PS-Revisi task04
+Week:w04-170310-13-PS-Revisi task04
