@@ -1,0 +1,9 @@
+Week:w06-170406-10-LR-About: Learning about process and threads, From: Lecture
+Week:w06-170406-10-LR-About: Fork(), From: Lecturer
+Week:w06-170406-11-LR-About: Fork(), From: Lecturer
+Week:w06-170411-10-LR-About: Concurrency dan Parallelism, From: Lecturer
+Week:w06-170411-10-LR-About: Multithreading Models, From: Lecturer
+Week:w06-170411-11-LR-About: Pthreads, From: Lecturer
+Week:w06-170411-13-PS-Task 06
+Week:w06-170411-13-PS-Task06
+Week:w06-170411-14-PS-Task05
